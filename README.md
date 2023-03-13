@@ -68,12 +68,6 @@ In order to simulate the performance of our ML model in real world we needed a d
 ## Maintainers of the project
 
 Project Lead : 
-- [Raj Kothari](https://github.com/rajkothari634)
-- [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
-- [Aparna Juhi](https://github.com/AparnaJuhi)
+- [RUDRA PATEL](https://www.linkedin.com/in/rudra-patel-643324203)
+- [Mohit Patel]
 
-Team Members : 
-- [Bhanu Pandey](https://github.com/)
-- [Neeraj Patil](https://github.com/Neeraj2212)
-- [Digvijay Srivastava](https://github.com/dig9074vijay)
-- [Shivam Tyagi](https://github.com/ShivamTyagi12345)
