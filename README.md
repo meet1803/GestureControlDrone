@@ -65,12 +65,6 @@ In order to simulate the performance of our ML model in real world we needed a d
 | LSTM         | 93.42%            |
 | CNN and LSTM | 98.73%            |
 
-## Maintainers of the project
-
-Project Lead : 
-- [Raj Kothari](https://github.com/rajkothari634)
-- [Sai Durga Kamesh Kota](https://github.com/ksdkamesh99)
-- [Aparna Juhi](https://github.com/AparnaJuhi)
 
 Team Members : 
 - [Mohit Patel]
