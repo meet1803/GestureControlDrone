@@ -73,7 +73,6 @@ Project Lead :
 - [Aparna Juhi](https://github.com/AparnaJuhi)
 
 Team Members : 
-- [Bhanu Pandey](https://github.com/)
-- [Neeraj Patil](https://github.com/Neeraj2212)
-- [Digvijay Srivastava](https://github.com/dig9074vijay)
-- [Shivam Tyagi](https://github.com/ShivamTyagi12345)
+- [Mohit Patel]
+- [Rudra Patel]
+- [Sakshi Patel]
